@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LearnHTMLByBuildingaCatPhotoApp/LearnHTMLByBuildingaCatPhotoApp.iml" filepath="$PROJECT_DIR$/LearnHTMLByBuildingaCatPhotoApp/LearnHTMLByBuildingaCatPhotoApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson1.LearnHTMLByBuildingaCatPhotoApp/Lesson1.LearnHTMLByBuildingaCatPhotoApp.iml" filepath="$PROJECT_DIR$/Lesson1.LearnHTMLByBuildingaCatPhotoApp/Lesson1.LearnHTMLByBuildingaCatPhotoApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson2.LearnBasicCSSByBuildingACafeMenu/Lesson2.LearnBasicCSSByBuildingACafeMenu.iml" filepath="$PROJECT_DIR$/Lesson2.LearnBasicCSSByBuildingACafeMenu/Lesson2.LearnBasicCSSByBuildingACafeMenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Responsive-Web-Design.iml" filepath="$PROJECT_DIR$/.idea/Responsive-Web-Design.iml" />
     </modules>
   </component>
